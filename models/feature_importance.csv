@@ -1,0 +1,54 @@
+feature,importance
+Contract_Month-to-month,0.6116317190440854
+tenure_group_13-24,0.5742478305318647
+Contract_Two year,0.5358441583292718
+tenure,0.44263463631081124
+tenure_group_61-72,0.39313809377382225
+InternetService_Fiber optic,0.1860099525647453
+InternetService_DSL,0.16856569400727137
+PaymentMethod_Credit card (automatic),0.15161421975287578
+has_support,0.14766531155523702
+Contract_One year,0.12905682211297176
+tenure_group_49-60,0.12258909660027568
+PaymentMethod_Electronic check,0.11794902650912363
+tenure_group_0-12,0.0942369807063474
+tenure_group_25-48,0.08898560194674422
+TechSupport_No,0.07446944919121468
+charges_per_month,0.0714019147039308
+InternetService_No,0.07071351995563781
+OnlineSecurity_No internet service,0.07071351995563781
+DeviceProtection_No internet service,0.07071351995563781
+StreamingTV_No internet service,0.07071351995563781
+TechSupport_No internet service,0.07071351995563781
+StreamingMovies_No internet service,0.07071351995563781
+OnlineBackup_No internet service,0.07071351995563781
+num_services,0.06908779736249382
+DeviceProtection_Yes,0.06411759395639774
+Dependents_Yes,0.06221270636617199
+SeniorCitizen,0.06133124333314566
+OnlineSecurity_No,0.06059225039088594
+PhoneService_Yes,0.0573156652162388
+TechSupport_Yes,0.05702519063374381
+PaperlessBilling_No,0.05671053718637032
+StreamingMovies_No,0.04787496858178844
+DeviceProtection_No,0.04667333539892542
+OnlineSecurity_Yes,0.043147991833415854
+Partner_Yes,0.04308023840299625
+MultipleLines_No,0.041408458253892055
+gender_Female,0.04055475329186166
+PaymentMethod_Bank transfer (automatic),0.03915555217513042
+StreamingMovies_Yes,0.03043071002431951
+OnlineBackup_Yes,0.028292112209049237
+MonthlyCharges,0.02604901311824061
+PaymentMethod_Mailed check,0.019551484020717904
+MultipleLines_Yes,0.01590720696234487
+StreamingTV_Yes,0.014450871119805375
+gender_Male,0.012714508106305042
+OnlineBackup_No,0.010847853651582105
+TotalCharges,0.010563916760893905
+Partner_No,0.01018902299516739
+Dependents_No,0.008943444968005792
+PhoneService_No,0.004046403818070201
+MultipleLines_No phone service,0.004046403818070201
+PaperlessBilling_Yes,0.0034412757882061737
+StreamingTV_No,0.002993387437668211

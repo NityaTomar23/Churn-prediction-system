@@ -65,3 +65,4 @@ Thumbs.db
 # Project specific
 data/telco_churn.csv
 models/*.joblib
+implementation_plan.md 

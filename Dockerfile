@@ -1,6 +1,8 @@
 # ─── Stage 1: Base ───
 FROM python:3.13-slim
 
+RUN apt-get update && apt-get install -y libgomp1 && rm -rf /var/lib/apt/lists/*
+
 WORKDIR /app
 
 # Install dependencies
@@ -14,4 +16,4 @@ COPY . .
 RUN python data/generate_dataset.py && python src/train_model.py
 
 # Default: run API server
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"]

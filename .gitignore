@@ -59,10 +59,9 @@ coverage.xml
 .streamlit/
 
 # OS setup files
-desktop.ini
 Thumbs.db
 
 # Project specific
 data/telco_churn.csv
 models/*.joblib
-implementation_plan.md 
+
